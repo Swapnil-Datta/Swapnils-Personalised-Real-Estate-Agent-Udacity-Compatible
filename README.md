@@ -22,7 +22,9 @@ Step 2 - Embedding done on Chroma DB using OpenAIEmbeddings
 
 Step 3 - Semantic Search was performed using Chroma from Langchain
 
-Step 4 - RAG using RetreivalQA from langchain.chains performed to keep things simple yet effective enough...
+Step 4 - RAG using RetreivalQA from langchain.chains performed to keep things simple yet effective enough
+
+Step 5 - Personalization using ConversationSummaryMemory
 
 Warning: There are huge chances of version mismatch so lookout for it...
 
